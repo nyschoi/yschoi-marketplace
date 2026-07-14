@@ -1,0 +1,18 @@
+{
+    "mcpServers": {
+        "atlassian-ktspace": {
+            "type": "http",
+            "url": "https://mcp.atlassian.com/v1/mcp"
+        },
+        "atlassian-ktdevspace": {
+            "type": "http",
+            "url": "https://mcp.atlassian.com/v1/mcp"
+        },
+        "playwright": {
+            "type": "stdio",
+            "command": "npx",
+            "args": ["@playwright/mcp@latest"],
+            "env": {}
+        }
+    }
+}

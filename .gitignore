@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# 로컬 Claude 설정
+.claude/settings.local.json
+.claude/skills/
+
+# 산출물 (마켓플레이스와 무관)
+inbox/
+output/

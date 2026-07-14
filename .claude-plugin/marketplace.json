@@ -1,0 +1,19 @@
+{
+    "name": "youngsoochoi-marketplace",
+    "description": "youngsoo의 Claude Code plugin market place",
+    "owner": {
+        "name": "youngsoo choi",
+        "email": "youngsoo.choi@kt.com"
+    },
+    "plugins": [
+        {
+            "name": "presentation-maker",
+            "source": "./plugins",
+            "description": "PPT generator",
+            "version": "1.0.0",
+            "author": {
+                "name": "youngsoo choi"
+            }
+        }
+    ]
+}
